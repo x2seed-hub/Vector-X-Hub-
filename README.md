@@ -2536,7 +2536,7 @@ spawn(function()
     wait(.24)
     require(game.ReplicatedStorage.Notification).new("<Color=Yellow>ที่ดิสมีการอัพเดทของScript<Color=/>"):Display()
     wait(.29)
-    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>รันScriptอีกครั้งเพื่อเปิดScript<Color=/>"):Display()
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>ขอให้สนุก<Color=/>"):Display()
     wait(.36)
 end)
 
