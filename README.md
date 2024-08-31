@@ -2640,7 +2640,7 @@ local SH = Window:MakeTab({
 })
 
 local C = Window:MakeTab({
-    Name = "🔰additional",
+    Name = "🔰Misc",
     Icon = "rbxassetid://8192162908",
     PremiumOnly = false
 })
